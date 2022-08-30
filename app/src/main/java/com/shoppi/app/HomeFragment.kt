@@ -8,6 +8,7 @@ import android.widget.Button
 import androidx.fragment.app.Fragment
 
 class HomeFragment:Fragment() {
+    // fragment 추가 및 화면 연결
     override fun onCreateView(
         inflater: LayoutInflater,
         container: ViewGroup?,
